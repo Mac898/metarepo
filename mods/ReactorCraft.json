@@ -1,0 +1,49 @@
+{
+    "format": 1,
+    "name": "ReactorCraft",
+    "authors": ["Reika"],
+    "versions": [
+        {
+            "name": "1.5.2",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "ReactorCraft Final 1.5.zip",
+                    "hash": { "type": "sha256", "digest": "01b04253c9241ece69f1c5467ef587d80c2374432b3affa2e2272b0e084f360e" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/rotarycraft" },
+                        { "type": "original", "url": "http://adf.ly/WtfhA" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.6.4",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "Reactor Craft 1.6 v25z.zip",
+                    "hash": { "type": "sha256", "digest": "6ae3b54ccce589308542931c377d9f084160a689820073fc069e860edda5fcdb" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/rotarycraft" },
+                        { "type": "original", "url": "http://adf.ly/qtd1a" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.7.10",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "ReactorCraft 1.7.10 V17a.jar",
+                    "hash": { "type": "sha256", "digest": "034fe765b654bba7d1f99be987642c6e018680bddd059de37a2db1e48b38144a" },
+                    "urls": [
+                        { "type": "page", "url": "https://minecraft.curseforge.com/projects/reactorcraft/files" },
+                        { "type": "original", "url": "https://minecraft.curseforge.com/projects/reactorcraft/files/latest" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
