@@ -1,0 +1,66 @@
+{
+	"format": 1,
+	"name": "Expanded Redstone",
+	"authors": ["Reika"],
+	"versions": [{
+			"name": "1.5.2",
+			"mcvsn": ["1.5.2"],
+			"files": [{
+				"filename": "ExpandedRedstone final 1.5.zip.zip",
+				"hash": {
+					"type": "sha256",
+					"digest": "a0660652fa7d9951a602cf5535bb50554b63ab526bf8ba6cc0bbfb899ae8189e"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "https://sites.google.com/site/reikasminecraft/expanded-redstone"
+					},
+					{
+						"type": "original",
+						"url": "http://adf.ly/WtfeA"
+					}
+				]
+			}]
+		},
+		{
+			"name": "1.6.4",
+			"mcvsn": ["1.6.4"],
+			"files": [{
+				"filename": "ExpandedRedstone 1.6 v25z.zip",
+				"hash": {
+					"type": "sha256",
+					"digest": "63be38a34061ca5b79056b65728dd037d2192f265227edd6e915e3d32b5ec968"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "https://sites.google.com/site/reikasminecraft/expanded-redstone"
+					},
+					{
+						"type": "original",
+						"url": "http://adf.ly/qtd21"
+					}
+				]
+			}]
+		},
+		{
+			"name": "1.7.10",
+			"mcvsn": ["1.7.10"],
+			"files": [{
+				"filename": "ExpandedRedstone 1.7.10 V17a.jar",
+				"hash": {
+					"type": "sha256",
+					"digest": "ade121c5082649e1c1d59757ecd8d29486063b0570937a67e3acbe2a214ae1d0"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "https://minecraft.curseforge.com/projects/expandedredstone/files"
+					},
+					{
+						"type": "original",
+						"url": "https://minecraft.curseforge.com/projects/expandedredstone/files/latest"
+					}
+				]
+			}]
+		}
+	]
+}
