@@ -1,0 +1,21 @@
+{
+    "format": 1,
+    "name": "ChromatiCraft",
+    "authors": ["Reika"],
+    "versions": [
+        {
+            "name": "1.7.10",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "ChromatiCraft 1.7.10 V`7c.jar",
+                    "hash": { "type": "sha256", "digest": "e1fb72453e206a7d9bdafdccf9b871318c1837d529f6effdc252935306f4d4e9" },
+                    "urls": [
+                        { "type": "page", "url": "https://minecraft.curseforge.com/projects/chromaticraft/files" },
+                        { "type": "original", "url": "https://minecraft.curseforge.com/projects/chromaticraft/files/latest" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
