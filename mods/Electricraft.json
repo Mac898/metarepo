@@ -1,0 +1,46 @@
+{
+	"format": 1,
+	"name": "ReactorCraft",
+	"authors": ["Reika"],
+	"versions": [{
+			"name": "1.6.4",
+			"mcvsn": ["1.6.4"],
+			"files": [{
+				"filename": "ElectriCraft 1.6 v25z.zip",
+				"hash": {
+					"type": "sha256",
+					"digest": "2cb7f3bfa444cc0069a968c3d04ad22ffbfcfb476c0c9eff3f707a9db5ae5a60"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "https://sites.google.com/site/reikasminecraft/electricraft"
+					},
+					{
+						"type": "original",
+						"url": "http://adf.ly/qtd3s"
+					}
+				]
+			}]
+		},
+		{
+			"name": "1.7.10",
+			"mcvsn": ["1.7.10"],
+			"files": [{
+				"filename": "ElectriCraft 1.7.10 V17a.jar",
+				"hash": {
+					"type": "sha256",
+					"digest": "04bacc1f331d311f1defe4a9416d890ab53e003992ad642020b7f93e3a29aeaa"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "https://minecraft.curseforge.com/projects/electricraft/files/"
+					},
+					{
+						"type": "original",
+						"url": "https://minecraft.curseforge.com/projects/electricraft/files/latest"
+					}
+				]
+			}]
+		}
+	]
+}
