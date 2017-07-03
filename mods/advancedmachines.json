@@ -1,7 +1,7 @@
 {
     "format": 1,
     "name": "Advanced Machines",
-    "authors": ["Zippinus, AtomicStriker, Snyke"],
+    "authors": ["Zippinus", "AtomicStriker", "Snyke"],
     "versions": [
         {
             "name": "3.1.1",
@@ -10,7 +10,6 @@
             "files": [
                 {
                     "filename": "mod_advancedmachines-client-3.1.1.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "776ab921cd6140686b98a1d1a3a70f53cdf44d2d4f7f3df9c1fe620cad65fd38" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/1174-addon-v1-43-v1-64-advanced-machines-v3-2-beta-2/" },
@@ -19,7 +18,6 @@
                 },
                 {
                     "filename": "mod_advancedmachines-server-3.1.1.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "cb1a3a77be9e33c9d8034b78f053fd04b1ef6d637d094c363bd5e31279890ecb" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/1174-addon-v1-43-v1-64-advanced-machines-v3-2-beta-2/" },
@@ -35,7 +33,6 @@
             "files": [
                 {
                     "filename": "mod_advancedmachines-3.2-beta-2-Client.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "50e7ddfb7aafe0d56bab6a082df1f9f16b02d2eca4563e5498f1a403796f0fa0" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/1174-addon-v1-43-v1-64-advanced-machines-v3-2-beta-2/" },
@@ -44,7 +41,6 @@
                 },
                 {
                     "filename": "mod_advancedmachines-3.2-beta-1-Server.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "3991c15689810248c22166465c8a396a8a80438add8cb1b81cf532176bc83b76" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/1174-addon-v1-43-v1-64-advanced-machines-v3-2-beta-2/" },
@@ -60,7 +56,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachinesClient v1.3a.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "fca2b6ec25750a09098c2a80b3b66dd5521884f2d81e6142b58121cfcece8ebf" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -69,7 +64,6 @@
                 },
                 {
                     "filename": "AdvancedMachinesServer v1.3.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "f1a5639d4aba6cafcea010db40adc7edb4db120db08e9b7f94d17a80730fbbbb" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -85,7 +79,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachinesClient v1.4.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "18648807bc9d51c694360cd8a3cd5e334b3a318f959e69a317dc964548d50302" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -94,7 +87,6 @@
                 },
                 {
                     "filename": "AdvancedMachinesServer v1.4.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "cecce9467264fb36c767e0ac506de1bec61d0a8643e19aef4245251af930e339" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -110,7 +102,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachinesClient v1.5.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "86e3a8ba852b8cc8834fc36909bd7fb025256a2f360c37180155ba1a49d1ba0d" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -119,7 +110,6 @@
                 },
                 {
                     "filename": "AdvancedMachinesServer v1.5.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "2714aaea1a0abf897f86edcf628016be99e09c3d0a42d3ba40d9d57fa5d4f2d9" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -134,7 +124,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachines v1.6b Universal.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "48d28bca1bf747b2f12a3f19d6239121cdc0153e69617e7b171ba63c9ce29b23" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -149,7 +138,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachines v1.7.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "c127ac0787f2e682fd6aa528f120904c85da907fd8dac95262893c68866e0e7f" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -164,7 +152,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachines v1.8.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "c08266e187541048c898aa732011aaf66460b4eaa7fabbb8b326199d69780f21" },
                     "urls": [
                         { "type": "page", "url": "https://forum.industrial-craft.net/thread/5077-addon-1-112-advanced-machines-original-v1-8a/" },
@@ -175,11 +162,10 @@
         },
         {
             "name": "1.6.4",
-            "mcvsn": ["1.6.4, 1.6.2"],
+            "mcvsn": ["1.6.4", "1.6.2"],
             "files": [
                 {
                     "filename": "oldversions.zip",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "1222f43a3a2e3098af7ad903f72695fb62f64c60c1cbce02c0a581b7606f2c83" },
                     "urls": [
                         { "type": "page", "url": "http://atomicstryker.net/advancedmachines.php" },
@@ -194,7 +180,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachinesAS-1.7.2.jar",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "08a9564f25b80b69512662db67018cdb6459e2fcdcad4f1f2435d16f3f4045b4" },
                     "urls": [
                         { "type": "page", "url": "http://atomicstryker.net/advancedmachines.php" },
@@ -209,7 +194,6 @@
             "files": [
                 {
                     "filename": "AdvancedMachinesAS-1.7.10.jar",
-                    "ipfs": "",
                     "hash": { "type": "sha256", "digest": "e057557a9a6efd40f2b2dab0774434f72f32390e9f6044d4f49eadda2fdb972a" },
                     "urls": [
                         { "type": "page", "url": "http://atomicstryker.net/advancedmachines.php" },
