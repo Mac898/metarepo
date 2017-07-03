@@ -1,0 +1,77 @@
+{
+    "format": 1,
+    "name": "Rotary Craft",
+    "authors": ["Reika"],
+    "versions": [
+        {
+            "name": "1.4.7",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "RotaryCraft-1.4.7.zip",
+                    "hash": { "type": "sha256", "digest": "bafef6d304b0c354efbe248c3274a2475af45a608e7af50c0e4d927768406fa8" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/rotarycraft" },
+                        { "type": "original", "url": "http://adf.ly/Qx9bn" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.5.1",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "RotaryCraft-1.5.1.zip",
+                    "hash": { "type": "sha256", "digest": "f8cd5665128655a5021aaf45ef0955376ad09c02aa02353e1d4c399cd9b36ae5" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/rotarycraft" },
+                        { "type": "original", "url": "http://adf.ly/Qx9YA" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.5.2",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "RotaryCraft Final 1.5.zip",
+                    "hash": { "type": "sha256", "digest": "aa738f98abbee0b1191f72fb22455b3d041feab68f3b7698bfad669b8b21854b" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/rotarycraft" },
+                        { "type": "original", "url": "http://adf.ly/WtfiC" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.6.4",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "RotaryCraft 1.6 v25z.zip",
+                    "hash": { "type": "sha256", "digest": "a16e70fe95c7ad070299408b26e43a213464efb68b8806e47c48a25ac34f9950" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/rotarycraft" },
+                        { "type": "original", "url": "http://adf.ly/qtczu" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.7.10",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "RotaryCraft 1.7.10 V17c.jar",
+                    "hash": { "type": "sha256", "digest": "2183728c10e7dbe1e211f32266f1f42b3f793d2b48f2331b5bfad2817fcb2006" },
+                    "urls": [
+                        { "type": "page", "url": "https://minecraft.curseforge.com/projects/rotarycraft/files" },
+                        { "type": "original", "url": "https://minecraft.curseforge.com/projects/rotarycraft/files/latest" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
