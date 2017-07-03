@@ -1,0 +1,77 @@
+{
+    "format": 1,
+    "name": "DragonAPI",
+    "authors": ["Reika"],
+    "versions": [
+        {
+            "name": "1.4.7",
+            "mcvsn": ["1.4.7"],
+            "files": [
+                {
+                    "filename": "DragonAPI 1.4.7.zip",
+                    "hash": { "type": "sha256", "digest": "cc2ee564f93c1e7cf6ae53aa379a75a2532034f573b2e521cfcd928976e74a5c" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/dragonapi" },
+                        { "type": "original", "url": "http://adf.ly/Qx9it" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.5.1",
+            "mcvsn": ["1.5.1"],
+            "files": [
+                {
+                    "filename": "DragonAPI - 1.5.1.zip",
+                    "hash": { "type": "sha256", "digest": "77e6e071da864450128356110ce3b0c520cc98732f26cf6ea0dfbf3b4e086341" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/dragonapi" },
+                        { "type": "original", "url": "http://adf.ly/Qx9gZ" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.5.2",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "DragonAPI Final 1.5.zip",
+                    "hash": { "type": "sha256", "digest": "5c6c010711635a3f5519ab241f0f2a4e199e32a4f34f0df106e3e06f01e9405f" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/dragonapi" },
+                        { "type": "original", "url": "http://adf.ly/Wtfiw" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.6.4",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "DragonAPI 1.6.4.zip",
+                    "hash": { "type": "sha256", "digest": "0d9cc0a635042a531c49a8e56236a5fba8f617b6be51094132042d2ca0e70d75" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/dragonapi" },
+                        { "type": "original", "url": "http://adf.ly/qtcxS" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.7",
+            "mcvsn": ["1.7","1.7.2","1.7.10"],
+            "files": [
+                {
+                    "filename": "",
+                    "hash": { "type": "sha256", "digest": "6168d20322ed3e6afcf4f94a7ba2739dbc26a812a0b8f2d9b9cbc7e50359737d" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/dragonapi" },
+                        { "type": "original", "url": "https://minecraft.curseforge.com/projects/dragonapi/files/latest" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
