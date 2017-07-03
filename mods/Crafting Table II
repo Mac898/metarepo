@@ -1,0 +1,43 @@
+{
+	"format": 1,
+	"name": "Crafting Table II",
+	"authors": ["ljdp"],
+	"versions": [{
+		"name": "v1.6.2",
+		"desc": "Requirements include Modloader, ModloadderMP, Forge",
+		"mcvsn": ["1.1"],
+		"files": [{
+				"filename": "Crafting Table II Client",
+				"hash": {
+					"type": "sha256",
+					"digest": "b59c2fdda8f261748cd69041fdbdb66d63ee314f8be30eace96b078bae35c042"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279285-1-1-crafting-table-ii-v1-6-2-31-01-12"
+					},
+					{
+						"type": "original",
+						"url": "http://adf.ly/57z24"
+					}
+				]
+			},
+			{
+				"filename": "Crafting Table II Server",
+				"hash": {
+					"type": "sha256",
+					"digest": "f19b430d74c19ad8c91f7682722d33b623c974b3b053926d65da083332d7e34b"
+				},
+				"urls": [{
+						"type": "page",
+						"url": "http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1279285-1-1-crafting-table-ii-v1-6-2-31-01-12"
+					},
+					{
+						"type": "original",
+						"url": "http://adf.ly/57z8r"
+					}
+				]
+			}
+		]
+	}]
+}
