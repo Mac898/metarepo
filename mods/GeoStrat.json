@@ -1,0 +1,49 @@
+{
+    "format": 1,
+    "name": "Geostrata",
+    "authors": ["Reika"],
+    "versions": [
+        {
+            "name": "1.5.2",
+            "mcvsn": ["1.5.2"],
+            "files": [
+                {
+                    "filename": "GeoStrata Final 1.5.zip.zip",
+                    "hash": { "type": "sha256", "digest": "c9c832ceb95583e91b1fbbd2918ff8b111b87e57a9182f085ce1282622cb9e3a" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/geostrata" },
+                        { "type": "original", "url": "http://adf.ly/Wtfg1" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.6.4",
+            "mcvsn": ["1.6.4"],
+            "files": [
+                {
+                    "filename": "03e89e4f618cadc6acfd7c5c4192603b7bb7ac1d0c0758407e0d1ae44c15252e",
+                    "hash": { "type": "sha256", "digest": "GeoStrata 1.6 v25z.zip" },
+                    "urls": [
+                        { "type": "page", "url": "https://sites.google.com/site/reikasminecraft/geostrata" },
+                        { "type": "original", "url": "http://adf.ly/qtcwF" }
+                    ]
+                }
+            ]
+        },
+        {
+            "name": "1.7.10",
+            "mcvsn": ["1.7.10"],
+            "files": [
+                {
+                    "filename": "GeoStrata 1.7.10 V17c.jar",
+                    "hash": { "type": "sha256", "digest": "286ecb14463a4fc90f17754dc380f16b6bb8101b7c9d3edada8817f41e13b470" },
+                    "urls": [
+                        { "type": "page", "url": "https://minecraft.curseforge.com/projects/geostrata/files" },
+                        { "type": "original", "url": "https://minecraft.curseforge.com/projects/geostrata/files/latest" }
+                    ]
+                }
+            ]
+        }
+    ]
+}
